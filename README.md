@@ -47,7 +47,7 @@ The study spans **OMI satellite data from 2020 to 2024**, including the leap yea
   - `numpy`, `pandas` for data processing  
   - `matplotlib`, `seaborn`, `plotly` for visualization  
   - `scikit-learn`, `XGBoost`, `TensorFlow` for modeling  
-- **Environment:** Google Colab / Jupyter Notebooks  
+- **Environment:** Google Colab  
 - **Data Access:** NASA Earthdata Login API
 
 ---
