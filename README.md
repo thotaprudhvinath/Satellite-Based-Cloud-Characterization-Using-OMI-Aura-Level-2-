@@ -110,9 +110,5 @@ OMI-Cloud-Analysis/
 - Special thanks to the **Aura/OMI science team** for continued satellite operations and public data access.
 
 ---
-
-## 📬 Contact
-
-**Thota Prudhvi Nath**  
-MSc Data Science | Aerospace Background  
+  
 <!-- Add your contact links here -->
