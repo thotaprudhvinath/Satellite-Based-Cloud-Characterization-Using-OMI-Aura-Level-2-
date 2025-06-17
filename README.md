@@ -20,12 +20,22 @@ The study spans **OMI satellite data from 2020 to 2024**, including the leap yea
 - **Format:** HDF-EOS5  
 - **Data Type:** Tabular scientific data with 2D continuous numerical arrays  
 - **Variables:**  
-  - Cloud fraction  
-  - Cloud pressure  
-  - Cloud optical centroid pressure  
-  - Reflectivity  
-  - Geolocation: latitude, longitude  
-  - Solar and viewing angles  
+  - Latitude
+  - Longitude
+  - Month 
+  - SecondsInDay
+  - SolarZenithAngle - Angle between the sun and the local zenith at measurement time.
+  - ViewingZenithAngle - Angle between the satellite and the local zenith at measurement time.
+  - RelativeAzimuthAngle
+  - CloudFraction
+  - CloudOpticalDepth
+  - FinalAerosolOpticalDepth
+  - UVAerosolIndex
+  - FinalAerosolSingleScattAlb
+  - LandWaterClass
+  - SnowFraction
+  - SeaIceFraction
+  - TerrainPressure 
 
 - **Temporal Coverage:** January 2020 – December 2024  
 - **Future Projection:** May 2025  
